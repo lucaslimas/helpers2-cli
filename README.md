@@ -1,4 +1,4 @@
-# inno CLI
+# Inno CLI
 
 A CLI for inno.
 
